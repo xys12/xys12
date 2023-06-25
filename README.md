@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Yusi(Jessica) from China. I am study in the University of Adelaide in Australia.
+
+
+
 
 <!--
 **xys12/xys12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
